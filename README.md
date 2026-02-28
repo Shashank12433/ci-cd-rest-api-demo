@@ -1,6 +1,6 @@
 # CI/CD REST API Demo
 
-![CI](https://github.com/YOUR_USERNAME/ci-cd-rest-api-demo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Shashank12433/ci-cd-rest-api-demo/actions/workflows/ci.yml/badge.svg)
 
 ## Features
 - Express REST API
