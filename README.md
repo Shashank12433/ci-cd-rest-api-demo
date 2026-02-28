@@ -1,5 +1,7 @@
 # CI/CD REST API Demo
 
+![CI](https://github.com/YOUR_USERNAME/ci-cd-rest-api-demo/actions/workflows/ci.yml/badge.svg)
+
 ## Features
 - Express REST API
 - Automated testing using Jest & Supertest
